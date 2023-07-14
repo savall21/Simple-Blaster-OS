@@ -5,6 +5,8 @@ The script is designed to play blaster and stun sounds. It also run an animation
 
 The code also lights a 9 segment addressable LED strip red for blaster and blue for stun.  The sounds are played from a DFPLayer mini and loaded on a Micro SD card. The repository includes a set of five sounds. The default sounds are for a E-11 blaster. You can swap the files out for a different blaster.
 
+Commection diagram https://github.com/savall21/Simple-Blaster-OS/blob/47e1a917c7d7898c387c521cf67733bd4df35b0a/simple%20blaster%20OSv2.png
+
 The code its setup to run ona Arduino Nano Every but it will likely run on a wide variety of Arduino boards.  The code displays the ammo counter on a 128x32 OLED screen. The scope animation displays on a 64x32 OLED. Links to purchase the Arduino and screens are below. The screens can probably be substitued with any that are the appropriate size.
 
 Arduino Nano Every
