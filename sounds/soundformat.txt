@@ -1,0 +1,2 @@
+The name of the folder on the SD card should be 01.  Each file needs to start with a 00 before the file number (ex 001, 002, 003). 
+The files can have more decriptive titles after the first three digits.
