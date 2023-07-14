@@ -1,5 +1,6 @@
 # Simple-Blaster-OS
 A simple Arduino script for a Star Wars blaster
+You can find out more and see other projects at cchobbyfun.com
 
 The script is designed to play blaster and stun sounds. It also run an animation display on a scope display and also an ammo counter that counts down as the fire button is pressed.  The second button serves as a mode change switch modes between blaster and stun.  The code is set for 50 shots. When the ammo counter reaches zero and empty sound is playeed with the fire button is pressed.  The mode change button is pressed when the counter reaches zero and resets the counter back to 50.
 
