@@ -10,6 +10,28 @@ Commection diagram https://github.com/savall21/Simple-Blaster-OS/blob/47e1a917c7
 
 The code its setup to run ona Arduino Nano Every but it will likely run on a wide variety of Arduino boards.  The code displays the ammo counter on a 128x32 OLED screen. The scope animation displays on a 64x32 OLED. Links to purchase the Arduino and screens are below. The screens can probably be substitued with any that are the appropriate size.
 
+Connections:
+Fire - Pin D8/SS (11)
+Mode Change - D3 (6)
+
+128x32 Ammo Display.
+
+SCL - D9 (12)
+SDA - D10 (13)
+
+64x32 Scope Display
+
+SCL- SCL/A5/D19 (24)
+SDA- SDA/A4/D18 (23)
+
+DFPlayer Mini
+
+RX -  TX (1)
+TX -  RX (2)
+
+LED Signal Pin - D11/MOSI (14)
+
+
 Arduino Nano Every
 https://www.amazon.com/Arduino-Nano-Every-Single-Board/dp/B07VX7MX27/ref=sr_1_3?crid=2JBRBQ7S2P2PD&keywords=arduino+nano+every&qid=1689296747&sprefix=arduino+nano+every%2Caps%2C94&sr=8-3
 
